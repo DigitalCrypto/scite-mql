@@ -40,9 +40,9 @@ Extract to the root of your drive in its own folder.
 
 - C:\Scite-MQL
 
-Step 2: Install Meta Trader in the following directory
+Step 2: Copy the Meta Trader libraries in the following directory
 
-- C:\Scite-MQL\other 
+- C:\Scite-MQL\other\Includes 
 
 Step 3: Setup your User preferences
 
@@ -60,13 +60,12 @@ If you want to support this project you can [help this little girl](http://www.s
 - changed configuration to use new compiler
 - initialized Solarized theme file
 
-
-
 #### 1.5.0
 - Initial and first commit of this repository.  
 
+## ToDo:
 
-
+More coding
 
 ## License
 
