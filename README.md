@@ -51,6 +51,10 @@ If you want to support this project you can [help this little girl](http://www.s
 
 ## Changelog
 
+#### 3.5.5
+- updated to the latest SciTE v3.5.5
+
+
 #### 1.5.1
 - added new compiler
 - changed configuration to use new compiler
