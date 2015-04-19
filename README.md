@@ -40,7 +40,11 @@ Extract to the root of your drive in its own folder.
 
 - C:\Scite-MQL
 
-Step 2: Setup your User preferences
+Step 2: Setup your directory junction (symlink)
+
+Read and follow the steps in the following file to gain access to MQL's Library directory
+
+- C:\Scite-MQL\other\MQL4\README.TXT
 
 Step 3: Start the application and have fun!
 
