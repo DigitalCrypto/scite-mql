@@ -3,7 +3,7 @@ Scite Editor for Metaquotes MQL (Meta Trader 4)
 
 A SciTE based app to allow more efficient editing of MetaQuotes MQL Language. 
 
-This is a version is a fork of the original SciTE-MQL 1.5.0 found on Steve Hopwood's fantastic Forex website.
+This version is a fork of the original SciTE-MQL 1.5.0 found on Steve Hopwood's fantastic Forex website.
 Special thanks to user w633 for all the ground work and the others who helped contribute to such a great idea.
 
 
