@@ -52,7 +52,7 @@ Step 3: Start the application and have fun!
 
 ## Support this project
 
-If you want to support this project you can [help this little girl](http://www.stevehopwoodforex.com/phpBB3/viewtopic.php?f=10&t=4200&hilit=donation)
+If you want to support this project you can [help a little girl or boy](http://www.compassion.com/)
 
 ## Changelog
 
