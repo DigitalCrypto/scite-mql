@@ -20,7 +20,7 @@ It's not as fancy as Eclipse or Visual Studio, but it achieved most functionalit
 - Parameter hint
 - Help integration (press F1 on keyword brings up Help window)
 - Bracket matching
-- Block collapse / expand
+- Block collapse / expand (code folding)
 - Snippet, abbreviation support
 - Theming (not straightforward though)
 
