@@ -32,6 +32,7 @@ Goerge's post at [Steve Hopwood Forex](http://www.stevehopwoodforex.com/phpBB3/v
 
 [![Scite-MQL](http://wiki.scite-mql.googlecode.com/hg/images/scite-mql-s1.png)](http://wiki.scite-mql.googlecode.com/hg/images/scite-mql-s1.png)
 
+[![Scite-MQL](http://i.imgur.com/oPKEdxj.png)]http://i.imgur.com/oPKEdxj.png
 
 ## Installation
 
